@@ -1,6 +1,4 @@
-# Projetos_C
-Conteúdo dos Projetos em Linguagem C
-feitos por mim.
+# Algoritimo_soma_2numbers_C
 
 -Programa que Calcula Soma entre 2 Números
 *Code Font Hello5.c
